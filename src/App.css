@@ -1,0 +1,19 @@
+.text{
+  text-align: center;
+  color: purple;
+  background-color: plum;
+}
+.title{
+  text-align: center;
+  font-size: 40px;
+}
+img{
+  height: 100%;
+  width:100%;
+}
+ul,ol{
+  list-style-position: inside;
+}
+table{
+  width: 100%;
+}
